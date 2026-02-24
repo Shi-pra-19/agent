@@ -1,6 +1,6 @@
-# Data Analyst Agent
+# Data Analyst Agent - TDS Course Porject II
 
-An autonomous data analysis agent that leverages Google Gemini models to perform scraping, data processing, and visualization. This agent can process both uploaded datasets (CSV, Excel, Parquet, JSON, Images) and live web data.
+An autonomous data analysis agent that leverages Google Gemini models to perform scraping, data processing, and visualization. This agent can process both uploaded datasets (CSV, Excel, Parquet, JSON, Images) and live web data. 
 
 ## Features
 
