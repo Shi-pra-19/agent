@@ -24,7 +24,7 @@ An autonomous data analysis agent that leverages Google Gemini models to perform
 - Python 3.9+
 - Google AI (Gemini) API Keys
 
-## 🔧 Installation
+##  Installation
 
 1. **Clone the repository:**
    ```bash
@@ -70,7 +70,3 @@ To use the API, send a `multipart/form-data` request:
 - `data_file`: (Optional) A CSV, XLSX, or image file for analysis.
 
 
-
-
-## 📄 License
-[Insert License Type - e.g., MIT]
